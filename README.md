@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **School Management System**
 
-- 🌱 I’m currently learning **JAVA, Spring Framework, Spring Boot, Spring Data, Javalin, JDBC, SQL**
+- 🌱 I’m currently learning **JAVA, Spring Framework, Spring Boot, Spring Data, Javalin, JDBC, SQL, GIT, Maven, SDLC**
 
 - 👨‍💻 All of my projects are available at [https://haftomweldegerima.github.io/portfolio/](https://haftomweldegerima.github.io/portfolio/)
 
